@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\bin\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.exe
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\bin\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.deps.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\bin\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.runtimeconfig.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\bin\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\bin\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\obj\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\obj\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\obj\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\obj\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\obj\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\obj\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\obj\Debug\net7.0\refint\CS05 Lệnh cấu trúc rẽ nhánh với if else.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\obj\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\obj\Debug\net7.0\CS05 Lệnh cấu trúc rẽ nhánh với if else.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS05 Lệnh cấu trúc rẽ nhánh với if else\obj\Debug\net7.0\ref\CS05 Lệnh cấu trúc rẽ nhánh với if else.dll

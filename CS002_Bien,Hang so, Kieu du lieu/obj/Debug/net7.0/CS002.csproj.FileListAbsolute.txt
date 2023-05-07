@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\bin\Debug\net7.0\CS002.exe
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\bin\Debug\net7.0\CS002.deps.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\bin\Debug\net7.0\CS002.runtimeconfig.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\bin\Debug\net7.0\CS002.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\bin\Debug\net7.0\CS002.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\obj\Debug\net7.0\CS002.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\obj\Debug\net7.0\CS002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\obj\Debug\net7.0\CS002.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\obj\Debug\net7.0\CS002.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\obj\Debug\net7.0\CS002.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\obj\Debug\net7.0\CS002.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\obj\Debug\net7.0\refint\CS002.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\obj\Debug\net7.0\CS002.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\obj\Debug\net7.0\CS002.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS002\obj\Debug\net7.0\ref\CS002.dll

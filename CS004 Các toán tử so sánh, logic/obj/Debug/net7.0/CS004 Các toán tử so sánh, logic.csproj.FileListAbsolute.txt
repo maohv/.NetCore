@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\bin\Debug\net7.0\CS004 Các toán tử so sánh, logic.exe
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\bin\Debug\net7.0\CS004 Các toán tử so sánh, logic.deps.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\bin\Debug\net7.0\CS004 Các toán tử so sánh, logic.runtimeconfig.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\bin\Debug\net7.0\CS004 Các toán tử so sánh, logic.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\bin\Debug\net7.0\CS004 Các toán tử so sánh, logic.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\obj\Debug\net7.0\CS004 Các toán tử so sánh, logic.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\obj\Debug\net7.0\CS004 Các toán tử so sánh, logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\obj\Debug\net7.0\CS004 Các toán tử so sánh, logic.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\obj\Debug\net7.0\CS004 Các toán tử so sánh, logic.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\obj\Debug\net7.0\CS004 Các toán tử so sánh, logic.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\obj\Debug\net7.0\CS004 Các toán tử so sánh, logic.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\obj\Debug\net7.0\refint\CS004 Các toán tử so sánh, logic.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\obj\Debug\net7.0\CS004 Các toán tử so sánh, logic.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\obj\Debug\net7.0\CS004 Các toán tử so sánh, logic.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS004 Các toán tử so sánh, logic\obj\Debug\net7.0\ref\CS004 Các toán tử so sánh, logic.dll

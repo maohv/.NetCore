@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\bin\Debug\net7.0\CS003 Các toán tử số học.exe
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\bin\Debug\net7.0\CS003 Các toán tử số học.deps.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\bin\Debug\net7.0\CS003 Các toán tử số học.runtimeconfig.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\bin\Debug\net7.0\CS003 Các toán tử số học.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\bin\Debug\net7.0\CS003 Các toán tử số học.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\obj\Debug\net7.0\CS003 Các toán tử số học.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\obj\Debug\net7.0\CS003 Các toán tử số học.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\obj\Debug\net7.0\CS003 Các toán tử số học.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\obj\Debug\net7.0\CS003 Các toán tử số học.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\obj\Debug\net7.0\CS003 Các toán tử số học.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\obj\Debug\net7.0\CS003 Các toán tử số học.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\obj\Debug\net7.0\refint\CS003 Các toán tử số học.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\obj\Debug\net7.0\CS003 Các toán tử số học.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\obj\Debug\net7.0\CS003 Các toán tử số học.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS003 Các toán tử số học\obj\Debug\net7.0\ref\CS003 Các toán tử số học.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\bin\Debug\net7.0\CS001_HelloWorld.exe
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\bin\Debug\net7.0\CS001_HelloWorld.deps.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\bin\Debug\net7.0\CS001_HelloWorld.runtimeconfig.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\bin\Debug\net7.0\CS001_HelloWorld.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\bin\Debug\net7.0\CS001_HelloWorld.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\obj\Debug\net7.0\CS001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\obj\Debug\net7.0\CS001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\obj\Debug\net7.0\CS001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\obj\Debug\net7.0\CS001_HelloWorld.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\obj\Debug\net7.0\CS001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\obj\Debug\net7.0\CS001_HelloWorld.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\obj\Debug\net7.0\refint\CS001_HelloWorld.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\obj\Debug\net7.0\CS001_HelloWorld.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\obj\Debug\net7.0\CS001_HelloWorld.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS001_HelloWorld\obj\Debug\net7.0\ref\CS001_HelloWorld.dll
