@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CS07___Vòng_lặp_for__while__do_while_và_lệnh_break__lệnh_continue
+build_property.ProjectDir = C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS07 - Vòng lặp for, while, do while và lệnh break, lệnh continue\

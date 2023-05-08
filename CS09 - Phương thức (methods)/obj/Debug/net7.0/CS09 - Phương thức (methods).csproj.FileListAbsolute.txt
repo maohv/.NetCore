@@ -1,0 +1,15 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\bin\Debug\net7.0\CS09 - Phương thức (methods).exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\bin\Debug\net7.0\CS09 - Phương thức (methods).deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\bin\Debug\net7.0\CS09 - Phương thức (methods).runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\bin\Debug\net7.0\CS09 - Phương thức (methods).dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\bin\Debug\net7.0\CS09 - Phương thức (methods).pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\obj\Debug\net7.0\CS09 - Phương thức (methods).csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\obj\Debug\net7.0\CS09 - Phương thức (methods).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\obj\Debug\net7.0\CS09 - Phương thức (methods).AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\obj\Debug\net7.0\CS09 - Phương thức (methods).AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\obj\Debug\net7.0\CS09 - Phương thức (methods).csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\obj\Debug\net7.0\CS09 - Phương thức (methods).dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\obj\Debug\net7.0\refint\CS09 - Phương thức (methods).dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\obj\Debug\net7.0\CS09 - Phương thức (methods).pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\obj\Debug\net7.0\CS09 - Phương thức (methods).genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS09 - Phương thức (methods)\obj\Debug\net7.0\ref\CS09 - Phương thức (methods).dll
