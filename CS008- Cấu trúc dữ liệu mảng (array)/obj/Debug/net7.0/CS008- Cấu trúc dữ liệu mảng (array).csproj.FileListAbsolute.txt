@@ -1,0 +1,15 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\bin\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\bin\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\bin\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\bin\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\bin\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\obj\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\obj\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\obj\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\obj\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\obj\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\obj\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\obj\Debug\net7.0\refint\CS008- Cấu trúc dữ liệu mảng (array).dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\obj\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\obj\Debug\net7.0\CS008- Cấu trúc dữ liệu mảng (array).genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS008- Cấu trúc dữ liệu mảng (array)\obj\Debug\net7.0\ref\CS008- Cấu trúc dữ liệu mảng (array).dll

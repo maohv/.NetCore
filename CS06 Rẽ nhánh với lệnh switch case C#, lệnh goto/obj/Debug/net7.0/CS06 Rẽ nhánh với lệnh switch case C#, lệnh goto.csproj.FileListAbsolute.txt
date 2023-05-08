@@ -1,0 +1,15 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\bin\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\bin\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\bin\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\bin\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\bin\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\obj\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\obj\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\obj\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\obj\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\obj\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\obj\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\obj\Debug\net7.0\refint\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\obj\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\obj\Debug\net7.0\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto\obj\Debug\net7.0\ref\CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.dll

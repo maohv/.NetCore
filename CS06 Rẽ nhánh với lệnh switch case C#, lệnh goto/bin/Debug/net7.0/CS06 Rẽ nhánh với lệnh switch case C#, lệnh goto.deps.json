@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto/1.0.0": {
+        "runtime": {
+          "CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS06 Rẽ nhánh với lệnh switch case C#, lệnh goto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
