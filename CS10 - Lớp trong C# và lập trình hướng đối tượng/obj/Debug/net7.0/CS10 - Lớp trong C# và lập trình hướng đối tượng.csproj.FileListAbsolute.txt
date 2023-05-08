@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\bin\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.exe
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\bin\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.deps.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\bin\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.runtimeconfig.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\bin\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\bin\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\obj\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\obj\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\obj\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\obj\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\obj\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\obj\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\obj\Debug\net7.0\refint\CS10 - Lớp trong C# và lập trình hướng đối tượng.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\obj\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\obj\Debug\net7.0\CS10 - Lớp trong C# và lập trình hướng đối tượng.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS10 - Lớp trong C# và lập trình hướng đối tượng\obj\Debug\net7.0\ref\CS10 - Lớp trong C# và lập trình hướng đối tượng.dll
