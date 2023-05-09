@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS15 - Namespace và partial trong tổ chức code lập trình C#/1.0.0": {
+        "runtime": {
+          "CS15 - Namespace và partial trong tổ chức code lập trình C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS15 - Namespace và partial trong tổ chức code lập trình C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS10 - Lớp trong C# và lập trình hướng đối tượng/1.0.0": {
+        "runtime": {
+          "CS10 - Lớp trong C# và lập trình hướng đối tượng.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS10 - Lớp trong C# và lập trình hướng đối tượng/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

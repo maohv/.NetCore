@@ -1,0 +1,15 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\bin\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\bin\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\bin\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\bin\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\bin\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\obj\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\obj\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\obj\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\obj\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\obj\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\obj\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\obj\Debug\net7.0\refint\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\obj\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\obj\Debug\net7.0\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic\obj\Debug\net7.0\ref\CS17 - Kiểu vô danh (Anonymous Type) và kiểu động dynamic.dll

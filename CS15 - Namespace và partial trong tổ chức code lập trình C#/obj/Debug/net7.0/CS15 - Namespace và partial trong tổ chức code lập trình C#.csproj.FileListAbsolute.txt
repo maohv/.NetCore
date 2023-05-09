@@ -1,0 +1,15 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\bin\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\bin\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\bin\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\bin\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\bin\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\obj\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\obj\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\obj\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\obj\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\obj\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\obj\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\obj\Debug\net7.0\refint\CS15 - Namespace và partial trong tổ chức code lập trình C#.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\obj\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\obj\Debug\net7.0\CS15 - Namespace và partial trong tổ chức code lập trình C#.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS15 - Namespace và partial trong tổ chức code lập trình C#\obj\Debug\net7.0\ref\CS15 - Namespace và partial trong tổ chức code lập trình C#.dll

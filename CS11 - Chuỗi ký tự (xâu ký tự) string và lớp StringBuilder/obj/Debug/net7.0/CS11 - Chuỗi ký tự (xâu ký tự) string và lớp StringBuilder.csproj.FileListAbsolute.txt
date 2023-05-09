@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\bin\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.exe
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\bin\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.deps.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\bin\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.runtimeconfig.json
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\bin\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\bin\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\obj\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\obj\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\obj\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\obj\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\obj\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\obj\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\obj\Debug\net7.0\refint\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.dll
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\obj\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.pdb
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\obj\Debug\net7.0\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NET Core Tutorial\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder\obj\Debug\net7.0\ref\CS11 - Chuỗi ký tự (xâu ký tự) string và lớp StringBuilder.dll
