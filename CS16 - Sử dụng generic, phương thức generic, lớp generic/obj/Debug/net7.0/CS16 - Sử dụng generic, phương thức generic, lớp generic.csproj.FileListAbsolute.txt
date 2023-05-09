@@ -1,0 +1,15 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\bin\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\bin\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\bin\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\bin\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\bin\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\obj\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\obj\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\obj\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\obj\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\obj\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\obj\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\obj\Debug\net7.0\refint\CS16 - Sử dụng generic, phương thức generic, lớp generic.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\obj\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\obj\Debug\net7.0\CS16 - Sử dụng generic, phương thức generic, lớp generic.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS16 - Sử dụng generic, phương thức generic, lớp generic\obj\Debug\net7.0\ref\CS16 - Sử dụng generic, phương thức generic, lớp generic.dll
