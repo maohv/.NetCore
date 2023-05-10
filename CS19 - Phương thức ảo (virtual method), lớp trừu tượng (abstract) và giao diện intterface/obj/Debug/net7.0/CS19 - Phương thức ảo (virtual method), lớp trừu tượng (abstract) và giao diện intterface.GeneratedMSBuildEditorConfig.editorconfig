@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CS19___Phương_thức_ảo__virtual_method___lớp_trừu_tượng__abstract__và_giao_diện_intterface
+build_property.ProjectDir = c:\Users\Hoang Mao\source\repos\C#\.NetCore\CS19 - Phương thức ảo (virtual method), lớp trừu tượng (abstract) và giao diện intterface\
