@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eUP7yTz/1hFxkxWfpoI3HakCQXL3MZ+NP5PeGi4+npMa8ss14ywmfQTHYzmMExop0fHKt1n0xhYREOwTBN0hhA==",
+  "dgSpecHash": "tBv0s1rFSOmF5xo+sEtM2a2wGaihG3GdJlPF7nkmuGQRyzbn7o4UwsmwTJKS6WlpvfHJeDKguzCNaxh5ou0JWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj",
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
