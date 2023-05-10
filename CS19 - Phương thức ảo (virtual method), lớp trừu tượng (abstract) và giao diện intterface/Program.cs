@@ -25,7 +25,35 @@
     //     }
     // }
 
-    //interface k đc dùng để tạo ra đối tượng, chỉ làm cơ sở cho các lớp kế thừa                                                   
+    //interface k đc dùng để tạo ra đối tượng, chỉ làm cơ sở cho các lớp kế thừa       
+    interface IHinhHoc
+    {
+        public double TinhChuVi();
+        public double TinhDienTich();
+    }
+    class HinhChuNhat : IHinhHoc
+    {
+        public double a { get; set; }
+
+        public double b { get; set; }
+
+        public HinhChuNhat(double _a, double _b)
+        {
+            a = _a;
+            b = _b;
+        }
+
+        public double TinhChuVi()
+        {
+            return 2 * (a + b);
+        }
+
+        public double TinhDienTich()
+        {
+            return a * b;
+        }
+    }
+
     static void Main(string[] args)
     {
         // Iphone i = new Iphone();
@@ -33,6 +61,7 @@
 
         //Product p = new Product();
 
-
+        HinhChuNhat h = new HinhChuNhat(4, 5);
+        Console.WriteLine($"Dien thich: {h.TinhDienTich()} - Chu Vi: {h.TinhChuVi()}");
     }
 }
