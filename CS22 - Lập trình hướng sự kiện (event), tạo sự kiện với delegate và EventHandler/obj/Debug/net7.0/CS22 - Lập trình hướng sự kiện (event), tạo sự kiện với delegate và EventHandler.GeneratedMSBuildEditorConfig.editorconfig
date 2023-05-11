@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = CS20___Sử_dụng_delegate__khai_báo_delegate_Action__delegate_Func
-build_property.ProjectDir = c:\Users\Hoang Mao\source\repos\C#\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\
+build_property.RootNamespace = CS22___Lập_trình_hướng_sự_kiện__event___tạo_sự_kiện_với_delegate_và_EventHandler
+build_property.ProjectDir = C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS22 - Lập trình hướng sự kiện (event), tạo sự kiện với delegate và EventHandler\
