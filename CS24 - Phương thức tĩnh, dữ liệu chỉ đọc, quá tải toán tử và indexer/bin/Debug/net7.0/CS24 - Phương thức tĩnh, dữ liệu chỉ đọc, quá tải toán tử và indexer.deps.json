@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS24 - Phương thức tĩnh, dữ liệu chỉ đọc, quá tải toán tử và indexer/1.0.0": {
+        "runtime": {
+          "CS24 - Phương thức tĩnh, dữ liệu chỉ đọc, quá tải toán tử và indexer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS24 - Phương thức tĩnh, dữ liệu chỉ đọc, quá tải toán tử và indexer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

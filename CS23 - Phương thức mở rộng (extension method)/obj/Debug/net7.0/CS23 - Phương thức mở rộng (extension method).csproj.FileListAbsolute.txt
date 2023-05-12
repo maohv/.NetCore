@@ -1,0 +1,15 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\bin\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\bin\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\bin\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\bin\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\bin\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\obj\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\obj\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\obj\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\obj\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\obj\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\obj\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\obj\Debug\net7.0\refint\CS23 - Phương thức mở rộng (extension method).dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\obj\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\obj\Debug\net7.0\CS23 - Phương thức mở rộng (extension method).genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS23 - Phương thức mở rộng (extension method)\obj\Debug\net7.0\ref\CS23 - Phương thức mở rộng (extension method).dll
