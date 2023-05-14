@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS26 - Kiểu dữ liệu danh sách List và SortedList/1.0.0": {
+        "runtime": {
+          "CS26 - Kiểu dữ liệu danh sách List và SortedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS26 - Kiểu dữ liệu danh sách List và SortedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

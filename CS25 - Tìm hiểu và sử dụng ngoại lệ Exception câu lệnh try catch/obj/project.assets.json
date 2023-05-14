@@ -8,23 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hoang Mao\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\.NetCore\\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.csproj",
       "projectName": "CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch",
-      "projectPath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.csproj",
-      "packagesPath": "C:\\Users\\Hoang Mao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\\obj\\",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\.NetCore\\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\.NetCore\\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Hoang Mao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
