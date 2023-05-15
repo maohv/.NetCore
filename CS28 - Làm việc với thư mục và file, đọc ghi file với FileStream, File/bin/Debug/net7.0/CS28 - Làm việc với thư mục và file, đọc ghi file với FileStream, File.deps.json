@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS28 - Làm việc với thư mục và file, đọc ghi file với FileStream, File/1.0.0": {
+        "runtime": {
+          "CS28 - Làm việc với thư mục và file, đọc ghi file với FileStream, File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS28 - Làm việc với thư mục và file, đọc ghi file với FileStream, File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
