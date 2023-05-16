@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS27 - Kiểu dữ liệu hàng đợi (Queue), ngăn xếp (Stack), danh sách liên kết (LinkedList)/1.0.0": {
+        "runtime": {
+          "CS27 - Kiểu dữ liệu hàng đợi (Queue), ngăn xếp (Stack), danh sách liên kết (LinkedList).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS27 - Kiểu dữ liệu hàng đợi (Queue), ngăn xếp (Stack), danh sách liên kết (LinkedList)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

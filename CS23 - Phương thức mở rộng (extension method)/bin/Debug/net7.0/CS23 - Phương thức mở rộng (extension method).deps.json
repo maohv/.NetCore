@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS23 - Phương thức mở rộng (extension method)/1.0.0": {
+        "runtime": {
+          "CS23 - Phương thức mở rộng (extension method).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS23 - Phương thức mở rộng (extension method)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

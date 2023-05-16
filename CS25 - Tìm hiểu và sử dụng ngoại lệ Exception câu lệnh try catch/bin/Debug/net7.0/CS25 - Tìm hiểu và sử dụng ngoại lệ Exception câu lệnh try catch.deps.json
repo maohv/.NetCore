@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch/1.0.0": {
+        "runtime": {
+          "CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

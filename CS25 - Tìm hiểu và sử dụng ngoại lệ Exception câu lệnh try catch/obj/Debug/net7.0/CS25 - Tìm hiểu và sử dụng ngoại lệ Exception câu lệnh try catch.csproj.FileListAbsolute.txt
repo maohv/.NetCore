@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\bin\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.exe
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\bin\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.deps.json
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\bin\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.runtimeconfig.json
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\bin\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.dll
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\bin\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.pdb
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\obj\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\obj\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\obj\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\obj\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\obj\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\obj\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.dll
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\obj\Debug\net7.0\refint\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.dll
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\obj\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.pdb
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\obj\Debug\net7.0\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NetCore\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch\obj\Debug\net7.0\ref\CS25 - Tìm hiểu và sử dụng ngoại lệ Exception câu lệnh try catch.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS21 - Biểu thức lambda, viết và sử dụng biểu thức lambda với delegate/1.0.0": {
+        "runtime": {
+          "CS21 - Biểu thức lambda, viết và sử dụng biểu thức lambda với delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS21 - Biểu thức lambda, viết và sử dụng biểu thức lambda với delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj": {
+    "C:\\Users\\PC\\source\\repos\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj",
         "projectName": "CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func",
-        "projectPath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj",
-        "packagesPath": "C:\\Users\\Hoang Mao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\.NetCore\\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Hoang Mao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

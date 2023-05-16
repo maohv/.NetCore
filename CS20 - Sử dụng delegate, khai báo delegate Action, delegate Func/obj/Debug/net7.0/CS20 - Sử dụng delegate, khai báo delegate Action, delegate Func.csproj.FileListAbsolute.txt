@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\bin\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.exe
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\bin\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.deps.json
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\bin\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.runtimeconfig.json
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\bin\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.dll
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\bin\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.pdb
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\obj\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\obj\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\obj\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\obj\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\obj\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\obj\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.dll
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\obj\Debug\net7.0\refint\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.dll
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\obj\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.pdb
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\obj\Debug\net7.0\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NetCore\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func\obj\Debug\net7.0\ref\CS20 - Sử dụng delegate, khai báo delegate Action, delegate Func.dll

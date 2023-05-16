@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/CS27 - Kiểu dữ liệu hàng đợi (Queue), ngăn xếp (Stack), danh sách liên kết (LinkedList).csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "${workspaceFolder}/CS27 - Kiểu dữ liệu hàng đợi (Queue), ngăn xếp (Stack), danh sách liên kết (LinkedList).csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "${workspaceFolder}/CS27 - Kiểu dữ liệu hàng đợi (Queue), ngăn xếp (Stack), danh sách liên kết (LinkedList).csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

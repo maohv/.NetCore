@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\bin\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.exe
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\bin\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.deps.json
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\bin\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.runtimeconfig.json
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\bin\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.dll
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\bin\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.pdb
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\obj\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\obj\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\obj\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\obj\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\obj\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\obj\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.dll
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\obj\Debug\net7.0\refint\CS26 - Kiểu dữ liệu danh sách List và SortedList.dll
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\obj\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.pdb
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\obj\Debug\net7.0\CS26 - Kiểu dữ liệu danh sách List và SortedList.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NetCore\CS26 - Kiểu dữ liệu danh sách List và SortedList\obj\Debug\net7.0\ref\CS26 - Kiểu dữ liệu danh sách List và SortedList.dll

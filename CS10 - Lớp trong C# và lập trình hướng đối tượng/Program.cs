@@ -24,10 +24,28 @@ namespace CS10___Lớp_trong_C__và_lập_trình_hướng_đối_tượng
             // }
 
             //Cac cau lenh khoi using thì biến s chỉ hiệu lực trong phạm vi using, ra ngoài là giải phóng, đc thu hồi
-            using (Student s = new Student("Ten sinh vien"))
-            {
+            // using (Student s = new Student("Ten sinh vien"))
+            // {
 
-            }
+            // }
+            Conmeo meo = new Conmeo(4, 2);
+            Console.WriteLine(meo);
+
         }
     }
+
+    class Conmeo
+    {
+        public int sochan { set; get; }
+        public int sotai { get; set; }
+
+        public Conmeo(int _sochan, int _sotai)
+        {
+            _sochan = sochan;
+            _sotai = sotai;
+        }
+        //ditam
+    }
+
+
 }
