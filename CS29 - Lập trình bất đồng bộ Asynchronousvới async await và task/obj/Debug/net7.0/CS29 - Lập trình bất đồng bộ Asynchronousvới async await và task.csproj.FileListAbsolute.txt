@@ -1,0 +1,15 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\obj\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\obj\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\obj\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\obj\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\obj\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\bin\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\bin\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\bin\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\bin\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\bin\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\obj\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\obj\Debug\net7.0\refint\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\obj\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\obj\Debug\net7.0\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\obj\Debug\net7.0\ref\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task.dll
