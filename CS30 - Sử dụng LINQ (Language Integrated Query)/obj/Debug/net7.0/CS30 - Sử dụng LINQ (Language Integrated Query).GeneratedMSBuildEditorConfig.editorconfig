@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = CS29___Lập_trình_bất_đồng_bộ_Asynchronousvới_async_await_và_task
-build_property.ProjectDir = C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS29 - Lập trình bất đồng bộ Asynchronousvới async await và task\
+build_property.RootNamespace = CS30___Sử_dụng_LINQ__Language_Integrated_Query_
+build_property.ProjectDir = C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS30 - Sử dụng LINQ (Language Integrated Query)\
