@@ -70,6 +70,9 @@ internal class Program
         //Groupby
         //Distinct
         //single SingleOrdefault
+        //Any
+        //All
+        //Count
 
         // var kq = products.Join(brands, p => p.Brand, b => b.ID, (p, b) =>
         // {
@@ -116,5 +119,110 @@ internal class Program
         // }
 
         //products.SelectMany(p => p.Colors).Distinct().ToList().ForEach(p => Console.WriteLine(p));
+        // var p = products.Single(p => p.Price == 600);
+        //var p = products.SingleOrDefault(p => p.Price == 400);
+        //var p = products.Count(p => p.Price == 400);
+
+
+        //in ra ten san pham, ten thuong hieu, co gia (300-400)
+        //gia giam dan
+
+        // products.Where(p => p.Price >= 300 && p.Price <= 400)
+        //         .OrderByDescending(p => p.Price)
+        //         .Join(brands, p => p.Brand, b => b.ID, (p, b) =>
+        //         {
+        //             return new
+        //             {
+        //                 TenSp = p.Name,
+        //                 tenTH = b.Name,
+        //                 Gia = p.Price,
+        //             };
+        //         })
+        //         .ToList()
+        //         .ForEach(info =>
+        //         {
+        //             Console.WriteLine($"{info.TenSp,15} {info.tenTH,15} {info.Gia,15}");
+        //         });
+
+        //cach viet ro rang LINGQ
+
+        /*
+        1) Xac dinh nguon: from tenphantu in IEnumerable
+            ... where, order by
+        2) Lay du lieu: select, group by ...
+        */
+
+        // var qr = from p in products
+        //          where p.Price <= 400
+        //          select new
+        //          {
+        //              Ten = p.Name,
+        //              Gia = p.Price,
+
+        //          };
+        // qr.ToList().ForEach(kq => Console.WriteLine(kq));
+
+        //nhom san pham theo gia
+        // var qr = from p in products
+        //          group p by p.Price;
+
+        // qr.ToList().ForEach(gr =>
+        // {
+        //     Console.WriteLine(gr.Key);
+        //     gr.ToList().ForEach(p => Console.WriteLine(p));
+        // });
+
+        //Doi tuong:
+        //Gia
+        //cac san pham
+        //So luong
+
+        // var qr = from p in products
+        //          group p by p.Price into gr
+        //          orderby gr.Key
+        //          let s1 = "So luong la " + gr.Count()
+
+        //          select new
+        //          {
+        //              Gia = gr.Key,
+        //              cacsanpham = gr.ToList(),
+        //              solong = s1
+        //          };
+
+        // qr.ToList().ForEach(i =>
+        // {
+
+        //     Console.WriteLine(i.Gia);
+        //     Console.WriteLine(i.solong);
+        //     i.cacsanpham.ForEach(p => Console.WriteLine(p));
+
+        // });
+
+        // var qr = from p in products
+        //          join b in brands on p.Brand equals b.ID
+        //          select new
+        //          {
+        //              ten = p.Name,
+        //              gia = p.Price,
+        //              thuonghieu = b.Name
+        //          };
+        // qr.ToList().ForEach(kq =>
+        // {
+        //     Console.WriteLine($"{kq.ten} - {kq.gia} - {kq.thuonghieu}");
+        // });
+
+        var qr = from p in products
+                 join b in brands on p.Brand equals b.ID into t //lưu ra biến tạm t
+                 from b2 in t.DefaultIfEmpty() //trả về giá trị nếu tìm thấy, k thì b2 = null
+                 select new
+                 {
+                     ten = p.Name,
+                     gia = p.Price,
+                     thuonghieu = (b2 != null) ? b2.Name : "No brand"
+                 };
+        qr.ToList().ForEach(kq =>
+        {
+            Console.WriteLine($"{kq.ten} - {kq.gia} - {kq.thuonghieu}");
+        });
     }
 }

@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS31_uspackage\\CS31_uspackage.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS31_uspackage\\CS31_uspackage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS31_uspackage\\CS31_uspackage.csproj",
+        "projectName": "CS31_uspackage",
+        "projectPath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS31_uspackage\\CS31_uspackage.csproj",
+        "packagesPath": "C:\\Users\\Hoang Mao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS31_uspackage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hoang Mao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\bin\Debug\net7.0\CS31_uspackage.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\bin\Debug\net7.0\CS31_uspackage.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\bin\Debug\net7.0\CS31_uspackage.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\bin\Debug\net7.0\CS31_uspackage.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\bin\Debug\net7.0\CS31_uspackage.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\CS31_uspackage.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\CS31_uspackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\CS31_uspackage.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\CS31_uspackage.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\CS31_uspackage.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\CS31_uspackage.csproj.CopyComplete
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\CS31_uspackage.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\refint\CS31_uspackage.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\CS31_uspackage.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\CS31_uspackage.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31_uspackage\obj\Debug\net7.0\ref\CS31_uspackage.dll
