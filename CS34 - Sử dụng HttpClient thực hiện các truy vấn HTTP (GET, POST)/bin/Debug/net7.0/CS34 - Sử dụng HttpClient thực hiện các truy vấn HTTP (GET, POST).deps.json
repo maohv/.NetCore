@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)/1.0.0": {
+        "runtime": {
+          "CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
