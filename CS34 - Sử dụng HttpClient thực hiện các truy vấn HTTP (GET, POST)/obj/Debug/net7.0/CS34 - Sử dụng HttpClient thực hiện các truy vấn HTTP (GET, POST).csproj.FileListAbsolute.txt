@@ -13,3 +13,18 @@ C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS34 - Sử dụng HttpClient thực
 C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).pdb
 C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).genruntimeconfig.cache
 C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\ref\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).dll
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\bin\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).exe
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\bin\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).deps.json
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\bin\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).runtimeconfig.json
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\bin\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).dll
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\bin\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).pdb
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).AssemblyInfo.cs
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).dll
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\refint\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).dll
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).pdb
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).genruntimeconfig.cache
+C:\Users\PC\source\repos\.NetCore\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST)\obj\Debug\net7.0\ref\CS34 - Sử dụng HttpClient thực hiện các truy vấn HTTP (GET, POST).dll
