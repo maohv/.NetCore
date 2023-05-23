@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CS36___Sử_dụng_HttpListener_tạo_máy_chủ_HTTP
+build_property.ProjectDir = C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\

@@ -1,6 +1,7 @@
 ﻿using System.Net;
 using System.Net.Http.Headers;
 using System.Net.NetworkInformation;
+using System.Text;
 using System.Text.Encodings.Web;
 
 internal class Program
@@ -31,10 +32,6 @@ internal class Program
             Console.WriteLine("Loi");
             return "Loi";
         }
-
-
-
-;
     }
 
     public static async Task DownloadStream(string url, string fileName)
@@ -50,8 +47,6 @@ internal class Program
 
             int SIZEBUFFER = 500;
             var buffer = new byte[SIZEBUFFER];
-
-            ;
 
             bool endread = false;
             do
@@ -70,7 +65,7 @@ internal class Program
         }
         catch (Exception e)
         {
-
+            Console.WriteLine(e.Message);
         }
     }
     static async Task Main(string[] args)
@@ -104,7 +99,41 @@ internal class Program
 
         //Console.WriteLine(html);
 
-        var url = "https://raw.githubusercontent.com/xuanthulabnet/jekyll-example/master/images/jekyll-01.png";
-        
+        // var url = "https://raw.githubusercontent.com/xuanthulabnet/jekyll-example/master/images/jekyll-01.png";
+        // await DownloadStream(url, "2.png");
+
+        using var httpClient = new HttpClient();
+        var httpMessageRequest = new HttpRequestMessage();
+
+        httpMessageRequest.Method = HttpMethod.Post;
+        httpMessageRequest.RequestUri = new Uri("https://postman-echo.com/post");
+        httpMessageRequest.Headers.Add("User-Agent", "Mozilla/5.0");
+
+        //POST => FROM HTML
+        /*
+        key1 => value1                  [Input]
+        key2 => [value2-1, value2-2]    [Mutil Select]
+        */
+        // var parameters = new List<KeyValuePair<string, string>>();
+        // parameters.Add(new KeyValuePair<string, string>("key1", "value1"));
+        // parameters.Add(new KeyValuePair<string, string>("key2", "value2-1"));
+        // parameters.Add(new KeyValuePair<string, string>("key2", "value2-2"));
+
+        string data = @"{
+                ""key1"": ""gia tri 1"",
+                ""key2"": ""gia tri 2"",
+        }";
+
+        Console.WriteLine(data);
+        var content = new StringContent(data, Encoding.UTF8, "application/json");
+        httpMessageRequest.Content = content;
+
+        var httpResponseMessage = await httpClient.SendAsync(httpMessageRequest);
+        ShowHeaders(httpResponseMessage.Headers);
+
+        var html = await httpResponseMessage.Content.ReadAsStringAsync();
+        Console.WriteLine(html);
+
+
     }
 }
