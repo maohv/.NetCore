@@ -7,8 +7,10 @@ internal class Program
     {
         Console.WriteLine($"Ten Bang {table.TableName}");
 
+        Console.Write($"{"Index",15}");
         foreach (DataColumn c in table.Columns)
         {
+
             Console.Write($"{c.ColumnName,15}");
         }
 
@@ -16,10 +18,11 @@ internal class Program
 
         int number_columns = table.Columns.Count;
 
+        int index = 0;
 
         foreach (DataRow d in table.Rows)
         {
-
+            Console.Write($"{index,15}");
             for (int i = 0; i < number_columns; i++)
             {
                 Console.Write($"{d[i],15}");
@@ -28,6 +31,7 @@ internal class Program
             // Console.Write($"{d["HoTen"],20}");
             // Console.Write($"{d["Tuoi"],20}");
             Console.WriteLine();
+            index++;
 
         }
     }
@@ -60,6 +64,13 @@ internal class Program
         adapter.InsertCommand.Parameters.Add("@Ho", SqlDbType.NVarChar, 255, "Ho");
         adapter.InsertCommand.Parameters.Add("@Ten", SqlDbType.NVarChar, 255, "Ten");
 
+        //DeleteCommand
+        adapter.DeleteCommand = new SqlCommand("Delete from NhanVien where @NhanViennID = @NhanViennID", connection);
+        var pr1 = adapter.DeleteCommand.Parameters.Add(new SqlParameter("@NhanViennID", SqlDbType.Int));
+        pr1.SourceColumn = "NhanViennID";
+        pr1.SourceVersion = DataRowVersion.Original;
+
+
         var dataset = new DataSet();
         adapter.Fill(dataset); //do du lieu vao dataset
 
@@ -72,6 +83,9 @@ internal class Program
 
 
         //cap nhap
+
+        // var row10 = table.Rows[10];
+        // row10.Delete();
 
         adapter.Update(dataset);
 
