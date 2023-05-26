@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CS37___Giới_thiệu_ADO.NET_và_kết_nối_SQL_Server__MySQL_với_SqlConnection
+build_property.ProjectDir = c:\Users\Hoang Mao\source\repos\C#\.NetCore\CS37 - Giới thiệu ADO.NET và kết nối SQL Server, MySQL với SqlConnection\

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient/1.0.0": {
+        "runtime": {
+          "CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS30 - Sử dụng LINQ (Language Integrated Query)/1.0.0": {
+        "runtime": {
+          "CS30 - Sử dụng LINQ (Language Integrated Query).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS30 - Sử dụng LINQ (Language Integrated Query)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

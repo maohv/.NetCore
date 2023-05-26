@@ -1,0 +1,17 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\bin\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\bin\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\bin\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\bin\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\bin\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\refint\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\ref\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS36 - Sử dụng HttpListener tạo máy chủ HTTP\obj\Debug\net7.0\CS36 - Sử dụng HttpListener tạo máy chủ HTTP.csproj.CopyComplete

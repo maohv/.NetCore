@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CS31_Tạo_thư_viện_lớp_C__NET_Core_và_chia_sẻ_lên_nuget.org
+build_property.ProjectDir = c:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\

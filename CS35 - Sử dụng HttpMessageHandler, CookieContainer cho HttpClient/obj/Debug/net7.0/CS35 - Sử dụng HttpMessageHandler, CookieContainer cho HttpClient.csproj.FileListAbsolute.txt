@@ -1,0 +1,15 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\obj\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\obj\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\obj\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\obj\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\obj\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\bin\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\bin\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\bin\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\bin\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\bin\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\obj\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\obj\Debug\net7.0\refint\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\obj\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\obj\Debug\net7.0\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient\obj\Debug\net7.0\ref\CS35 - Sử dụng HttpMessageHandler, CookieContainer cho HttpClient.dll

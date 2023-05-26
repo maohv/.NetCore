@@ -1,0 +1,17 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\bin\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\bin\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\bin\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\bin\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\bin\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.csproj.CopyComplete
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\refint\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org\obj\Debug\net7.0\ref\CS31 Tạo thư viện lớp C# NET Core và chia sẻ lên nuget.org.dll

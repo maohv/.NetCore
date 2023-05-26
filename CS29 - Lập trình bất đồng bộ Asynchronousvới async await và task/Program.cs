@@ -98,8 +98,11 @@
         static async Task<string> Getweb(string url)
         {
             HttpClient httpClient = new HttpClient();
+            Console.WriteLine("Bat dau tai");
             HttpResponseMessage kq = await httpClient.GetAsync(url);
+            Console.WriteLine("Bat dau doc noi dung");
             string content = await kq.Content.ReadAsStringAsync();
+            Console.WriteLine("Hoan thanh");
             return content;
         }
         //asynchronous (multi thread)
@@ -109,19 +112,28 @@
             //synchronous
             //Task
             //Task<T>
-            Task<string> t4 = Task4();
-            Task<string> t5 = Task5();
+
+            var task = Getweb("https://xuanthulab.net/");
+            DoSomething(6, "T1", ConsoleColor.Blue);
+            
+            var content = await task;
+
+            Console.WriteLine(content);
+
+
+            // Task<string> t4 = Task4();
+            // Task<string> t5 = Task5();
 
 
 
             // Task t2 = Task2();
             // Task t3 = Task3();
             // Task.WaitAll(t2, t3); //Đảm bảo các tác vụ được hoàn thành mới thực hiện đc các tác phụ tiếp theo
-            DoSomething(6, "T1", ConsoleColor.Blue);
+
             // await t2;
             // await t3;
 
-            Task.WaitAll(t4, t5);
+            //Task.WaitAll(t4, t5);
 
 
             Console.WriteLine("bam phim bat ky de ket thuc");

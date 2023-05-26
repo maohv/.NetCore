@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LefZs8cUdWFJUJNIjVbbS4OUQVhJ5KA/v+HZ1NS44ZkZw94ORIxSRB2PVcu2vJBhDsYCSctUMFu3Lqd0UzFY+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS33 - Dependency injection (DI) trong lập trình C#, sử dụng ServiceCollection\\CS33 - Dependency injection (DI) trong lập trình C#, sử dụng ServiceCollection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang Mao\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hoang Mao\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hoang Mao\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Hoang Mao\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
