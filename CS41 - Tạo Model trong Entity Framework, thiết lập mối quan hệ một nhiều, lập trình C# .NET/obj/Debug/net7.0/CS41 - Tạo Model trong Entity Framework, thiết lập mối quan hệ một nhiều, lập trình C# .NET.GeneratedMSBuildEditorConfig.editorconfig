@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CS41___Tạo_Model_trong_Entity_Framework__thiết_lập_mối_quan_hệ_một_nhiều__lập_trình_C__.NET
+build_property.ProjectDir = c:\Users\Hoang Mao\source\repos\C#\.NetCore\CS41 - Tạo Model trong Entity Framework, thiết lập mối quan hệ một nhiều, lập trình C# .NET\

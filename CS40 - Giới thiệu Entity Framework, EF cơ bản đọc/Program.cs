@@ -61,7 +61,7 @@ internal class Program
         int number_rows = dbContext.SaveChanges();
         Console.WriteLine($"Da chen {number_rows} dong du lieu");
     }
-    static void Readproducts()
+    static void ReadProducts()
     {
         using var dbContext = new ProductDbContext();
         //Linq
@@ -72,12 +72,27 @@ internal class Program
         // }
 
         var qr = from product in dbContext.products
-                 where product.ProductId >= 3
                  select product;
         qr.ToList().ForEach(
             product => Console.WriteLine($"{product.ProductName} - {product.Provider}")
 
         );
+    }
+
+    static void DeleteProduct(int id)
+    {
+        using var dbContext = new ProductDbContext();
+
+        var product = (from p in dbContext.products
+                       where p.ProductId == id
+                       select p).FirstOrDefault();
+
+        if (product != null)
+        {
+            dbContext.Remove(product);
+            int number_rows = dbContext.SaveChanges();
+            Console.WriteLine($"Da xoa {number_rows} dong du lieu");
+        }
     }
     static void RenameProduct(int id, string newName)
     {
@@ -101,8 +116,7 @@ internal class Program
     {
 
         //Insert, Select, Update, Delete
-
-        //RenameProduct(3, "May tinh");
-        Readproducts();
+        //Log
+        ReadProducts();
     }
 }
