@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lXj8QNyRssOkgiISGIbt/oQJYvCJTmJAhJ3WmwsvUCQd5zf9882+VlNMuUOCnGrfj4F7R/6fxml7v20etMfQQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang Mao\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.props" />
+</Project>
