@@ -1,0 +1,26 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\bin\Debug\net7.0\appsettings.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\bin\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\bin\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\bin\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\bin\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\bin\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\staticwebassets\msbuild.CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\staticwebassets\msbuild.build.CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\scopedcss\bundle\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.styles.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\refint\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng\obj\Debug\net7.0\ref\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng/1.0.0": {
+        "runtime": {
+          "CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

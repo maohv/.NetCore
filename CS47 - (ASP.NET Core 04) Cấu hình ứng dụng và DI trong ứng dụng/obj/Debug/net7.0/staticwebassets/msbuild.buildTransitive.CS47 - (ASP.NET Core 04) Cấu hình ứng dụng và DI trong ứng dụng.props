@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CS47 - (ASP.NET Core 04) Cấu hình ứng dụng và DI trong ứng dụng.props" />
+</Project>

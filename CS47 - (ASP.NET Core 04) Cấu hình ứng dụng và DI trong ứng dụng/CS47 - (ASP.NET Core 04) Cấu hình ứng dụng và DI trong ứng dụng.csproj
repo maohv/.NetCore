@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CS47____ASP.NET_Core_04__Cấu_hình_ứng_dụng_và_DI_trong_ứng_dụng</RootNamespace>
+  </PropertyGroup>
+
+</Project>
