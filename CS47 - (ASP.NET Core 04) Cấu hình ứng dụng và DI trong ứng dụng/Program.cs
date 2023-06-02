@@ -1,39 +1,23 @@
-using System.Text;
-
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
-
-app.UseRouting();
-
-app.UseEndpoints(endpoints =>
+internal class Program
 {
-    endpoints.MapGet("/", async context =>
+    static void Main(string[] args)
     {
-        await context.Response.WriteAsync("Hello, world");
-    });
+        // var builder = WebApplication.CreateBuilder(args);
+        // var app = builder.Build();
 
-    endpoints.MapGet("/ShowOptions", async (context) =>
-   {
-       var configuration = context.RequestServices.GetService<IConfiguration>();
+        // app.MapGet("/", () => "Hello World!");
 
-       var testOptions = configuration.GetSection("TestOptions");
+        // app.Run();
 
-       var opt_key1 = testOptions["opt_key1"];
-
-       var k1 = testOptions.GetSection("opt_key2")["K1"];
-       var k2 = testOptions.GetSection("opt_key2")["K2"];
-
-       var stringBuiler = new StringBuilder();
-
-       stringBuiler.Append("TESTOPTIONS\n");
-       stringBuiler.Append($"opt_key1 = {opt_key1}\n");
-       stringBuiler.Append($"TestOptions.opt_key2.k1 = {k1}\n");
-       stringBuiler.Append($"TestOptions.opt_key2.k2 = {k2}");
-
-       await context.Response.WriteAsync(stringBuiler.ToString());
-
-   });
-
-});
-
-app.Run();
+        IHostBuilder builder = Host.CreateDefaultBuilder(args);
+        //Cau hinh mac dinh cho HOST tao ra
+        builder.ConfigureWebHostDefaults((IWebHostBuilder webBuilder) =>
+        {
+            //Tuy bien them ve Host
+            //webBuilder.
+            webBuilder.UseStartup<MyStartUp>();
+        });
+        IHost host = builder.Build();
+        host.Run();
+    }
+}
