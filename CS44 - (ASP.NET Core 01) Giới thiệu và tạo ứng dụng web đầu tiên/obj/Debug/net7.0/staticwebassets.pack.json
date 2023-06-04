@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\\wwwroot\\1.txt",
+      "PackagePath": "staticwebassets\\1.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.props",
+      "PackagePath": "build\\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.props",
+      "PackagePath": "buildMultiTargeting\\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.props",
+      "PackagePath": "buildTransitive\\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

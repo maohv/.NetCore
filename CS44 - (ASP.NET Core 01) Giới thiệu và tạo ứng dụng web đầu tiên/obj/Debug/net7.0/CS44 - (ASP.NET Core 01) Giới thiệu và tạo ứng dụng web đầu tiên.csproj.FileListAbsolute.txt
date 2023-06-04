@@ -1,0 +1,29 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\bin\Debug\net7.0\appsettings.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\bin\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\bin\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\bin\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\bin\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\bin\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\staticwebassets\msbuild.CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\staticwebassets\msbuild.build.CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\scopedcss\bundle\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.styles.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\refint\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\obj\Debug\net7.0\ref\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\bin\Debug\net7.0\bundleconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\bin\Debug\net7.0\package-lock.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên\bin\Debug\net7.0\CS44 - (ASP.NET Core 01) Giới thiệu và tạo ứng dụng web đầu tiên.staticwebassets.runtime.json
