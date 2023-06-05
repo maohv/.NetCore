@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET/1.0.0": {
+        "runtime": {
+          "CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

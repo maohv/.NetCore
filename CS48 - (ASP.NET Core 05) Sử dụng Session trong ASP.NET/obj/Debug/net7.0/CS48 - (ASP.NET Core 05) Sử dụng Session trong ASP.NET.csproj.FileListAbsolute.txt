@@ -1,0 +1,28 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\bin\Debug\net7.0\appsettings.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\bin\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\bin\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\bin\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\bin\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\bin\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.build.CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\scopedcss\bundle\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.styles.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.csproj.CopyComplete
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\refint\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET\obj\Debug\net7.0\ref\CS48 - (ASP.NET Core 05) Sử dụng Session trong ASP.NET.dll

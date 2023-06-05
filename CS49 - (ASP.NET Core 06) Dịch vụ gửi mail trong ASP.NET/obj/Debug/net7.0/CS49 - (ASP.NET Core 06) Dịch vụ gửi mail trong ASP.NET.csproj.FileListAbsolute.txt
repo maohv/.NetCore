@@ -1,0 +1,26 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\bin\Debug\net7.0\appsettings.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\bin\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\bin\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\bin\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\bin\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\bin\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.build.CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\scopedcss\bundle\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.styles.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\refint\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET\obj\Debug\net7.0\ref\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.dll
