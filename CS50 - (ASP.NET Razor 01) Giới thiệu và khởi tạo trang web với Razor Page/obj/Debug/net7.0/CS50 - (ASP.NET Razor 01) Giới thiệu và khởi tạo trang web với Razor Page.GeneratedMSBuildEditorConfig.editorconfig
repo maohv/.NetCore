@@ -9,33 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CS50____ASP.NET_Razor_01__Giới_thiệu_và_khởi_tạo_trang_web_với_Razor_Page
 build_property.RootNamespace = CS50____ASP.NET_Razor_01__Giới_thiệu_và_khởi_tạo_trang_web_với_Razor_Page
-build_property.ProjectDir = c:\Users\Hoang Mao\source\repos\C#\.NetCore\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\
+build_property.ProjectDir = C:\Users\PC\source\repos\.NetCore\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Hoang Mao\source\repos\C#\.NetCore\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page
+build_property.MSBuildProjectDirectory = C:\Users\PC\source\repos\.NetCore\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/Dichvu/DichVu1.cshtml]
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Areas/Product/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdFxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Areas/Product/Pages/Sanphammoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdFxQYWdlc1xTYW5waGFtbW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Areas/User/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Areas/User/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxQYWdlc1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/Dichvu/DichVu1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGljaHZ1XERpY2hWdTEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/Dichvu/Dichvu2.cshtml]
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/Dichvu/Dichvu2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGljaHZ1XERpY2h2dTIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/Dichvu/index.cshtml]
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/Dichvu/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGljaHZ1XGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/FirstPage.cshtml]
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/FirstPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlyc3RQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/SecondPage.cshtml]
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/SecondPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vjb25kUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/ThirdPage.cshtml]
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/Shared/_MyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NeUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/ThirdPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhpcmRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/source/repos/.NetCore/CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

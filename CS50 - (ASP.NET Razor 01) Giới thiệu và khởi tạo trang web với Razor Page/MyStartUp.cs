@@ -10,8 +10,12 @@ public class MyStartUp
         {
             options.RootDirectory = "/Pages";
             options.Conventions.AddPageRoute("/FirstPage", "/trang-dau-tien.html");
-            options.Conventions.AddPageRoute("/SecondPage", "/trang-thu-hai.html");
-            options.Conventions.AddPageRoute("/ThirdPage", "/trang-thu-ba.html");
+
+
+            services.Configure<RouteOptions>((routeOption) =>
+            {
+                routeOption.LowercaseUrls = true;               //Đăng kí dịch vụ url thành chữ thường
+            });
         });
     }
     // Xay dung pipeline (chuoi Middleware)
@@ -44,4 +48,10 @@ public class MyStartUp
         //viet code c#
 
     }
+
+    Rewrite URL
+
+    Tag Helper -> HTML
+
+    @addTagHelper * Microsoft.AspNetCore.Mvc.TagHelpers
 */

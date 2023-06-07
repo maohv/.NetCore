@@ -1,6 +1,10 @@
 @page "/trang-dau-tien/{solanlap:int?}"
+@model FirstPageModel
 
-<h1>Day la trang razor page dau tien</h1>
+@{
+    ViewData["Title"] = "TRANG DAU TIEN";
+}
+<h1>@Model.title</h1>
 
 <p>Hoc lap trinh ASP.net Core
 <strong>@System.DateTime.Now</strong></p>
@@ -24,3 +28,7 @@
         <li>Muc thu @i</li>
     }
 </ol>
+
+<a asp-page="SecondPage">Trang thu 2</a>
+<br>    
+<a asp-page="ThirdPage">Trang thu 3</a>

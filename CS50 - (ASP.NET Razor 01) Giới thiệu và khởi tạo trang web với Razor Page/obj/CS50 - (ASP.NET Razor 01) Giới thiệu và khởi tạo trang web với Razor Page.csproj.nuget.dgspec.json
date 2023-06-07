@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\.NetCore\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page.csproj": {
+    "C:\\Users\\PC\\source\\repos\\.NetCore\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\.NetCore\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page.csproj",
         "projectName": "CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page",
-        "projectPath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page.csproj",
-        "packagesPath": "C:\\Users\\Hoang Mao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hoang Mao\\source\\repos\\C#\\.NetCore\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\.NetCore\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\.NetCore\\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Hoang Mao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
