@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CS50____ASP.NET_Razor_01__Giới_thiệu_và_khởi_tạo_trang_web_với_Razor_Page</RootNamespace>
+  </PropertyGroup>
+
+</Project>
