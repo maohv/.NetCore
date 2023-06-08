@@ -1,0 +1,31 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\bin\Debug\net7.0\appsettings.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\bin\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.staticwebassets.runtime.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\bin\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\bin\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\bin\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\bin\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\bin\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.RazorAssemblyInfo.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.RazorAssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\staticwebassets\msbuild.CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\staticwebassets\msbuild.build.CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\scopedcss\bundle\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.styles.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\scopedcss\projectbundle\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.bundle.scp.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\refint\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor\obj\Debug\net7.0\ref\CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.dll

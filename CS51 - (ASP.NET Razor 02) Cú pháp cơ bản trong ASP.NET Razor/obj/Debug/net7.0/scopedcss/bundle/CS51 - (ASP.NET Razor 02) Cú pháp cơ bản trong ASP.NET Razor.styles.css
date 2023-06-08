@@ -1,0 +1,49 @@
+/* _content/CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-d6pzomp5fp] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-d6pzomp5fp] {
+  color: #0077cc;
+}
+
+.btn-primary[b-d6pzomp5fp] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-d6pzomp5fp], .nav-pills .show > .nav-link[b-d6pzomp5fp] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-d6pzomp5fp] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-d6pzomp5fp] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-d6pzomp5fp] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-d6pzomp5fp] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-d6pzomp5fp] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
