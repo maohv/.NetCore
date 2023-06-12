@@ -1,0 +1,31 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\bin\Debug\net7.0\appsettings.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\bin\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.staticwebassets.runtime.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\bin\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\bin\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\bin\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\bin\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\bin\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.RazorAssemblyInfo.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.RazorAssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\staticwebassets\msbuild.CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\staticwebassets\msbuild.build.CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\scopedcss\bundle\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.styles.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\scopedcss\projectbundle\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.bundle.scp.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\refint\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen\obj\Debug\net7.0\ref\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.dll

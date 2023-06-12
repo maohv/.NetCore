@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/1.0.0": {
+        "runtime": {
+          "CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

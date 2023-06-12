@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CS53 - (ASP.NET Razor 04) PartialView và ViewComponen.props" />
+</Project>

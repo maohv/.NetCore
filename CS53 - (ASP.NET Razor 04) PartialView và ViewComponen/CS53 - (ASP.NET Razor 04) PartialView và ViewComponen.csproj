@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CS53____ASP.NET_Razor_04__PartialView_và_ViewComponen</RootNamespace>
+  </PropertyGroup>
+
+</Project>
