@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel/1.0.0": {
+        "runtime": {
+          "CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

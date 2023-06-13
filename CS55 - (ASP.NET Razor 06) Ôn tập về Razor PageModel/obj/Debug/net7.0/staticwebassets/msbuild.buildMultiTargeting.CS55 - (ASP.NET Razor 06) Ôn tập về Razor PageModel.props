@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.props" />
+</Project>
