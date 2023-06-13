@@ -29,3 +29,34 @@ C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập 
 C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.pdb
 C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.genruntimeconfig.cache
 C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\ref\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.dll
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\bin\Debug\net7.0\appsettings.json
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\bin\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.staticwebassets.runtime.json
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\bin\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.exe
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\bin\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.deps.json
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\bin\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.runtimeconfig.json
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\bin\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.dll
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\bin\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.pdb
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.AssemblyInfo.cs
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.RazorAssemblyInfo.cache
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.RazorAssemblyInfo.cs
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\staticwebassets\msbuild.CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\staticwebassets\msbuild.build.CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.props
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.props
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.props
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\scopedcss\bundle\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.styles.css
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\scopedcss\projectbundle\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.bundle.scp.css
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.dll
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\refint\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.dll
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.pdb
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.genruntimeconfig.cache
+C:\Users\PC\source\repos\.NetCore\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel\obj\Debug\net7.0\ref\CS55 - (ASP.NET Razor 06) Ôn tập về Razor PageModel.dll
