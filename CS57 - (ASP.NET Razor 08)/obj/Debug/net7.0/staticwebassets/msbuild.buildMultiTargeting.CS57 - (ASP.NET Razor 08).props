@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CS57 - (ASP.NET Razor 08).props" />
+</Project>

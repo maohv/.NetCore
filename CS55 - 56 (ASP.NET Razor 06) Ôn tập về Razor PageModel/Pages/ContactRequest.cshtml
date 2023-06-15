@@ -1,0 +1,45 @@
+@page "/contact.html"
+@model ContactRequestModel
+@{
+    ViewData["Title"] = "LIEN HE";
+}
+<h1 class="display-4">Trang liên hệ</h1>
+<p class=" lead">Điền các thông tin liên hệ</p>
+<hr>
+
+<form class="bg-light p-2 m-2" method="post" asp-page="ContacRequest">
+    <div class="mb-3">
+         <label class="form-label" asp-for="usercontact.UserId"></label>
+         <input class="form-control" asp-for="@Model.usercontact.UserId" value="">
+         <span class="text-danger"asp-validation-for="usercontact.UserId"></span>
+    </div>
+
+     <div class="mb-3">
+         <label class="form-label" asp-for="usercontact.Email"></label>
+         <input class="form-control" asp-for="@Model.usercontact.Email" value="">
+         <span class="text-danger"asp-validation-for="usercontact.Email"></span>
+    </div>
+
+     <div class="mb-3">
+         <label class="form-label" asp-for="usercontact.UserName"></label>
+         <input class="form-control" asp-for="@Model.usercontact.UserName" value="">
+         <span class="text-danger"asp-validation-for="usercontact.UserName"></span>
+    </div>
+   
+    <button class="btn btn-danger">Gửi</button>
+</form>
+
+
+<div class="alert alert-danger">
+    <p>Thông tin User</p>
+    <ul>
+        <li>UserID: @Model.usercontact.UserId</li>
+        <li>Email: @Model.usercontact.Email</li>
+        <li>UserName: @Model.usercontact.UserName</li>
+    </ul>
+</div>
+
+@section Scripts
+{
+    <parial name ="_ValidationScriptsPartial"/>
+}
