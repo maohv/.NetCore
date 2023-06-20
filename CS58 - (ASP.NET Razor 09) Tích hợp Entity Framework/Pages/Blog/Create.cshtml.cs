@@ -25,17 +25,17 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Pages_Blog
 
         [BindProperty]
         public Article Article { get; set; } = default!;
-        
+
 
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
         public async Task<IActionResult> OnPostAsync()
         {
-          if (!ModelState.IsValid || _context.articles == null || Article == null)
+            if (!ModelState.IsValid || _context.articles == null || Article == null)
             {
                 return Page();
             }
 
-            _context.articles.Add(Article);
+            _context.Add(Article);
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");

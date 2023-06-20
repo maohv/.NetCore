@@ -19,22 +19,22 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Pages_Blog
         }
 
         [BindProperty]
-      public Article Article { get; set; } = default!;
+        public Article Article { get; set; } = default!;
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
             if (id == null || _context.articles == null)
             {
-                return NotFound();
+                return Content("Không thấy bài viết");
             }
 
             var article = await _context.articles.FirstOrDefaultAsync(m => m.Id == id);
 
             if (article == null)
             {
-                return NotFound();
+                return Content("Không thấy bài viết");
             }
-            else 
+            else
             {
                 Article = article;
             }
@@ -45,7 +45,7 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Pages_Blog
         {
             if (id == null || _context.articles == null)
             {
-                return NotFound();
+                return Content("Không thấy bài viết");
             }
             var article = await _context.articles.FindAsync(id);
 

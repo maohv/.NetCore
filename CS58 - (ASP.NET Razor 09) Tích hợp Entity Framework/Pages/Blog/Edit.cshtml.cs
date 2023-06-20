@@ -26,13 +26,13 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Pages_Blog
         {
             if (id == null || _context.articles == null)
             {
-                return NotFound();
+                return Content("Không thấy bài viết");
             }
 
-            var article =  await _context.articles.FirstOrDefaultAsync(m => m.Id == id);
+            var article = await _context.articles.FirstOrDefaultAsync(m => m.Id == id);
             if (article == null)
             {
-                return NotFound();
+                return Content("Không thấy bài viết");
             }
             Article = article;
             return Page();
@@ -57,7 +57,7 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Pages_Blog
             {
                 if (!ArticleExists(Article.Id))
                 {
-                    return NotFound();
+                    return Content("Không thấy bài viết");
                 }
                 else
                 {
@@ -70,7 +70,7 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Pages_Blog
 
         private bool ArticleExists(int id)
         {
-          return (_context.articles?.Any(e => e.Id == id)).GetValueOrDefault();
+            return (_context.articles?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }
