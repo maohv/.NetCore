@@ -1,0 +1,31 @@
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\bin\Debug\net7.0\appsettings.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\bin\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.staticwebassets.runtime.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\bin\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.exe
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\bin\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.deps.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\bin\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\bin\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\bin\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.RazorAssemblyInfo.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.RazorAssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\staticwebassets\msbuild.CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\staticwebassets\msbuild.build.CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.props
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\scopedcss\bundle\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.styles.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\scopedcss\projectbundle\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.bundle.scp.css
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\refint\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.dll
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.pdb
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper\obj\Debug\net7.0\ref\CS54 - (ASP.NET Razor 05) TagHelper và HtmlHelper.dll

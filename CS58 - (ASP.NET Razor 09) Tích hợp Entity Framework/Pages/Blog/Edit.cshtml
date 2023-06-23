@@ -1,0 +1,45 @@
+@page "/blog/chinhsuabaiviet/{id:int}"
+@model CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Pages_Blog.EditModel
+
+@{
+    ViewData["Title"] = "Chỉnh sửa";
+}
+
+<h1>Chỉnh sửa</h1>
+
+<h4>Bài viết</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Article.Id" />
+            <div class="form-group mb-4">
+                <label asp-for="Article.Title" class="control-label mb-2"></label>
+                <input asp-for="Article.Title" class="form-control" />
+                <span asp-validation-for="Article.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-4">
+                <label asp-for="Article.Created" class="control-label mb-2"></label>
+                <input asp-for="Article.Created" class="form-control " />
+                <span asp-validation-for="Article.Created" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-4">
+                <label asp-for="Article.Content" class="control-label mb-2"></label>
+                <input asp-for="Article.Content" class="form-control" />
+                <span asp-validation-for="Article.Content" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <input type="submit" value="Lưu" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-success" asp-page="./Index">Danh sách chi tiết</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CS49 - (ASP.NET Core 06) Dịch vụ gửi mail trong ASP.NET.props" />
+</Project>

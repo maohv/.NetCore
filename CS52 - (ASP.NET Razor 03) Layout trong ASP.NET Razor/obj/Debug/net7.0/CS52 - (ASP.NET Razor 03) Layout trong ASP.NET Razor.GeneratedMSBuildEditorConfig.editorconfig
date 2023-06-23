@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CS52____ASP.NET_Razor_03__Layout_trong_ASP.NET_Razor
+build_property.RootNamespace = CS52____ASP.NET_Razor_03__Layout_trong_ASP.NET_Razor
+build_property.ProjectDir = C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hoang Mao\source\repos\C#\.NetCore\CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/Post1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zdDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/Post2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zdDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/Shared/_MyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NeUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/Shared/_PostLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Qb3N0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hoang Mao/source/repos/C\#/.NetCore/CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4mcxch44tc

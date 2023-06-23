@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/1.0.0": {
+        "runtime": {
+          "CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

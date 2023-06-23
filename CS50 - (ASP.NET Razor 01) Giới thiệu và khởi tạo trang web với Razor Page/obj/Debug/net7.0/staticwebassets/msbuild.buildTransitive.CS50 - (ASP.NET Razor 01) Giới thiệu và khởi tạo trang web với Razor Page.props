@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CS50 - (ASP.NET Razor 01) Giới thiệu và khởi tạo trang web với Razor Page.props" />
+</Project>

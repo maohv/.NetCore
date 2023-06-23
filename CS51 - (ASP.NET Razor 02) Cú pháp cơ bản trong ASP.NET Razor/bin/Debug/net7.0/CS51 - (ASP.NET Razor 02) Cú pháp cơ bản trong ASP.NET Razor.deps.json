@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor/1.0.0": {
+        "runtime": {
+          "CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS51 - (ASP.NET Razor 02) Cú pháp cơ bản trong ASP.NET Razor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

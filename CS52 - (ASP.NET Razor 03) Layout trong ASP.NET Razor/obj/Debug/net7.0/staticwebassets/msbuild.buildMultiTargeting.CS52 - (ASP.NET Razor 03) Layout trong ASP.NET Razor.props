@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CS52 - (ASP.NET Razor 03) Layout trong ASP.NET Razor.props" />
+</Project>

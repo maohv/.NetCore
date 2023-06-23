@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CS58 - (ASP.NET Razor 09) Tích hợp Entity Framework.props" />
+</Project>
