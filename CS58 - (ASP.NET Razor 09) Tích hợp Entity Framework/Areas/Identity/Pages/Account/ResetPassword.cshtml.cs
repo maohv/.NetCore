@@ -76,7 +76,7 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
         {
             if (code == null)
             {
-                return BadRequest("A code must be supplied for password reset.");
+                return BadRequest("Mã token không chính xác.");
             }
             else
             {

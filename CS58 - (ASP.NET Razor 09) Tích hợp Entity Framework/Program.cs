@@ -67,7 +67,17 @@ builder.Services.ConfigureApplicationCookie(options =>
     options.LoginPath = "/Login/";
     options.LogoutPath = "/Logout/";
     options.LogoutPath = "/khongduoctruycap.html";
+
 });
+//dang nhap bang google
+builder.Services.AddAuthentication()
+                .AddGoogle(options =>
+                {
+                    var gconfig = builder.Configuration.GetSection("Authentication:Google");
+                    options.ClientId = gconfig["ClientId"];
+                    options.ClientSecret = gconfig["ClientSecret"];
+                    options.CallbackPath = "/dang-nhap-tu-google";
+                });
 
 var app = builder.Build();
 
@@ -88,7 +98,11 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapRazorPages();
-
+//fix loi Exception: Correlation failed.
+app.UseCookiePolicy(new CookiePolicyOptions()
+{
+    MinimumSameSitePolicy = SameSiteMode.Lax
+});
 app.Run();
 
 
@@ -108,4 +122,8 @@ app.Run();
 
 
    dotnet aspnet-codegenerator identity -dc razorweb.models.MyBlogContext
+
+
+   //CallbackPatch
+   //http://localhost:5170/dang-nhap-tu-google
 */

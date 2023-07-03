@@ -45,8 +45,8 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
-            [Required]
-            [EmailAddress]
+            [Required(ErrorMessage = "Phải nhập {0}")]
+            [EmailAddress(ErrorMessage = "Sai định dạng email")]
             public string Email { get; set; }
         }
 
