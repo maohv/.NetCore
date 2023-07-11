@@ -64,7 +64,7 @@ builder.Services.ConfigureApplicationCookie(options =>
 {
     options.LoginPath = "/Login/";
     options.LogoutPath = "/Logout/";
-    options.LogoutPath = "/khongduoctruycap.html";
+    options.AccessDeniedPath = "/khongduoctruycap.html";
 
 });
 //dang nhap bang google
@@ -78,6 +78,18 @@ builder.Services.AddAuthentication()
                 });
 //dang ki dich vu error cua IdentityErrorDescriber thay bang AppIdentityErrorDescriber
 builder.Services.AddSingleton<IdentityErrorDescriber, AppIdentityErrorDescriber>();
+
+//dang ki Tao policy
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AllowEditRole", policy =>
+    {
+        policy.RequireRole("Admin");
+    });
+});
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -121,6 +133,17 @@ app.Run();
         - Authorization: Xác thực quyền truy cập
          - Role-Based Authentication - Xác định quyền truy cập
           - role (vai trò): (Admin, Editor, Member...)
+
+          * Policy-based authentication
+          * Claim-based authentication
+                Claim => Đặc tính, tính chất của đối tượng (User)
+
+                VD: Bằng lái B2 (Role) -> được lái xe 4 chỗ
+                - Ngày sinh -> Claim
+                - Nơi sinh -> Claim
+                
+
+
 
           Areas/Admin/Pages/Role       
           Index

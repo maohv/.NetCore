@@ -7,7 +7,7 @@ using razorweb.models;
 
 namespace App.Admin.User
 {
-    [Authorize(Roles = "Admin")]
+    //[Authorize(Roles = "Admin")]
     public class IndexModel : PageModel
     {
         private readonly UserManager<AppUser> _userManager;

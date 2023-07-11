@@ -6,7 +6,7 @@
 <partial name="_StatusMessage" model="@Model.StatusMessage"></partial>
 
 <hr>
-
+<h2>@ViewData["Title"]</h2>
 <div class="row">
     <div class="col-md-6">
         <form method="post">
@@ -20,7 +20,19 @@
                 <input type="submit" value="Cập nhật" class="btn btn-primary" />
                 <a class="btn btn-primary" asp-page="./Index">Danh sách role</a>
             </div>
-        </form>
+        </form>      
+        
+        @if(Model.Claims.Count > 0){
+            <ul>
+                @foreach (var claim in Model.Claims)
+                {
+                    <a style="text-decoration: none;" asp-asp-page="./EditRoleClaim" asp-route-claimid="@claim.Id">
+                        <li style="list-style: none; text-decoration: none">@claim.ClaimType : @claim.ClaimValue</li>
+                    </a>
+                    
+                }
+            </ul>
+        }
     </div>
 </div>
 @section Scripts {
