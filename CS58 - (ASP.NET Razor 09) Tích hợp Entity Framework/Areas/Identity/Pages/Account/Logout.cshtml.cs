@@ -34,9 +34,9 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
             }
             else
             {
-                // This needs to be a redirect so that the browser performs a new
-                // request and the identity for the user gets updated.
-                return RedirectToPage();
+                returnUrl = Url.Content("~/");
+                return LocalRedirect(returnUrl);
+                //return RedirectToPage();
             }
         }
     }

@@ -86,7 +86,7 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
             [EmailAddress]
             public string Email { get; set; }
         }
-        
+
         public IActionResult OnGet() => RedirectToPage("./Login");
 
         public IActionResult OnPost(string provider, string returnUrl = null)
@@ -99,16 +99,18 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
 
         public async Task<IActionResult> OnGetCallbackAsync(string returnUrl = null, string remoteError = null)
         {
+            //return Content("Dung o day");
             returnUrl = returnUrl ?? Url.Content("~/");
             if (remoteError != null)
             {
-                ErrorMessage = $"Error from external provider: {remoteError}";
+                ErrorMessage = $"Lỗi từ dịch vụ ngoài: {remoteError}";
                 return RedirectToPage("./Login", new { ReturnUrl = returnUrl });
             }
+
             var info = await _signInManager.GetExternalLoginInfoAsync();
             if (info == null)
             {
-                ErrorMessage = "Error loading external login information.";
+                ErrorMessage = "Không lấy được thông tin từ dịch vụ ngoài.";
                 return RedirectToPage("./Login", new { ReturnUrl = returnUrl });
             }
 
@@ -125,6 +127,8 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
             }
             else
             {
+                //- co tai khoan, chua lien ket => Lien ket tai khoan voi dich vu ngoai
+                //- chua co tai khoan => Tao tai khoan, lien ket, dang nhap
                 // If the user does not have an account, then ask the user to create an account.
                 ReturnUrl = returnUrl;
                 ProviderDisplayName = info.ProviderDisplayName;
@@ -146,12 +150,80 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
             var info = await _signInManager.GetExternalLoginInfoAsync();
             if (info == null)
             {
-                ErrorMessage = "Error loading external login information during confirmation.";
+                ErrorMessage = "Lỗi lấy thông tin từ dịch vụ ngoài.";
                 return RedirectToPage("./Login", new { ReturnUrl = returnUrl });
             }
 
             if (ModelState.IsValid)
             {
+                // Input.Email
+                var registerdUser = await _userManager.FindByEmailAsync(Input.Email);
+
+                string externalEmail = null;
+
+                AppUser externalEmailUser = null;
+
+                //Claim ~ Dac tinh mo ta mot doi tuong
+                if (info.Principal.HasClaim(c => c.Type == ClaimTypes.Email))
+                {
+                    externalEmail = info.Principal.FindFirstValue(ClaimTypes.Email);
+                }
+
+                if (externalEmail != null)
+                {
+                    externalEmailUser = await _userManager.FindByEmailAsync(externalEmail);
+                }
+
+                if ((registerdUser != null) && (externalEmailUser != null))
+                {
+                    if (registerdUser.Id == externalEmailUser.Id)
+                    {
+                        //Lien ket tai khoan, dang nhap
+                        var resultLink = await _userManager.AddLoginAsync(registerdUser, info);
+                        if (resultLink.Succeeded)
+                        {
+                            await _signInManager.SignInAsync(registerdUser, isPersistent: false);
+                            return LocalRedirect(returnUrl);
+                        }
+                    }
+                    else
+                    {
+                        ModelState.AddModelError(string.Empty, "Không liên kết được tài khoản, hãy sử dụng email khác");
+                        return Page();
+                    }
+
+
+                    if ((externalEmailUser != null) && (registerdUser == null))
+                    {
+                        ModelState.AddModelError(string.Empty, "Không hỗ trợ tạo tài khoản mới - có email khác từ dịch vụ ngoài");
+                        return Page();
+                    }
+                }
+                if ((externalEmailUser == null) && (externalEmail == Input.Email))
+                {
+                    //Chua co tai khoan -> Tao tai khoan, lien ket, dang nhap
+                    var newUser = new AppUser()
+                    {
+                        UserName = externalEmail,
+                        Email = externalEmail
+                    };
+                    var resultNewUser = await _userManager.CreateAsync(newUser);
+                    if (resultNewUser.Succeeded)
+                    {
+                        await _userManager.AddLoginAsync(newUser, info);
+                        var code = await _userManager.GenerateEmailConfirmationTokenAsync(newUser);
+                        await _userManager.ConfirmEmailAsync(newUser, code);
+
+                        await _signInManager.SignInAsync(newUser, isPersistent: false);
+                        return LocalRedirect(returnUrl);
+                    }
+                    else
+                    {
+                        ModelState.AddModelError(string.Empty, "Không tạo được tài khoản mới");
+                        return Page();
+                    }
+                }
+
                 var user = CreateUser();
 
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
@@ -174,8 +246,8 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
                             values: new { area = "Identity", userId = userId, code = code },
                             protocol: Request.Scheme);
 
-                        await _emailSender.SendEmailAsync(Input.Email, "Confirm your email",
-                            $"Please confirm your account by <a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>clicking here</a>.");
+                        await _emailSender.SendEmailAsync(Input.Email, "Xác thực Email",
+                            $"Bạn đã đăng kí tài khoản trên web <a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>Bấm vào đây để xác thực, xin cảm ơn!!!</a>.");
 
                         // If account confirmation is required, we need to show the link if we don't have a real email sender
                         if (_userManager.Options.SignIn.RequireConfirmedAccount)
@@ -185,6 +257,7 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
 
                         await _signInManager.SignInAsync(user, isPersistent: false, info.LoginProvider);
                         return LocalRedirect(returnUrl);
+
                     }
                 }
                 foreach (var error in result.Errors)

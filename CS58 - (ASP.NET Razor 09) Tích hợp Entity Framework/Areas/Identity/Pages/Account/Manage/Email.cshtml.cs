@@ -7,6 +7,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Text;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -16,6 +17,7 @@ using razorweb.models;
 
 namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.Pages.Account.Manage
 {
+    [Authorize]
     public class EmailModel : PageModel
     {
         private readonly UserManager<AppUser> _userManager;
@@ -70,7 +72,7 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
             /// </summary>
             [Required]
             [EmailAddress]
-            [Display(Name = "New email")]
+            [Display(Name = "Email mới")]
             public string NewEmail { get; set; }
         }
 
@@ -114,6 +116,7 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
             }
 
             var email = await _userManager.GetEmailAsync(user);
+
             if (Input.NewEmail != email)
             {
                 var userId = await _userManager.GetUserIdAsync(user);
@@ -127,13 +130,13 @@ namespace CS58____ASP.NET_Razor_09__Tích_hợp_Entity_Framework.Areas.Identity.
                 await _emailSender.SendEmailAsync(
                     Input.NewEmail,
                     "Confirm your email",
-                    $"Please confirm your account by <a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>clicking here</a>.");
+                    $"<a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>Bấm vào đây để xác nhận email mới</a>.");
 
-                StatusMessage = "Confirmation link to change email sent. Please check your email.";
+                StatusMessage = "Mở email để xác nhận thay đổi email.";
                 return RedirectToPage();
             }
 
-            StatusMessage = "Your email is unchanged.";
+            StatusMessage = "Đổi email mới thành công";
             return RedirectToPage();
         }
 

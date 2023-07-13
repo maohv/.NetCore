@@ -1,3 +1,4 @@
+using App.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity.UI.Services;
@@ -15,17 +16,14 @@ builder.Services.AddDbContext<MyBlogContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MyBlogContext"));
 });
 
-builder.Services.AddDefaultIdentity<AppUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<MyBlogContext>();
+builder.Services.AddDefaultIdentity<AppUser>(options => options.SignIn.RequireConfirmedAccount = true);
 
-//Dang ki Identity
-// builder.Services.AddIdentity<AppUser, IdentityRole>()
-//                 .AddEntityFrameworkStores<MyBlogContext>()
-//                 .AddDefaultTokenProviders();
+builder.Services.AddIdentityCore<AppUser>()
+                .AddRoles<IdentityRole>()
+                .AddEntityFrameworkStores<MyBlogContext>()
+                .AddDefaultTokenProviders();
 
-//giao dien mac dinh 
-// builder.Services.AddDefaultIdentity<AppUser>()              /*Đăng kí dùng trước giao diện của Identity */
-//                 .AddEntityFrameworkStores<MyBlogContext>()  /*          /Identity/Account/Login         */
-//                 .AddDefaultTokenProviders();
+
 
 //Mail
 builder.Services.AddOptions();
@@ -66,8 +64,31 @@ builder.Services.ConfigureApplicationCookie(options =>
 {
     options.LoginPath = "/Login/";
     options.LogoutPath = "/Logout/";
-    options.LogoutPath = "/khongduoctruycap.html";
+    options.AccessDeniedPath = "/khongduoctruycap.html";
+
 });
+//dang nhap bang google
+builder.Services.AddAuthentication()
+                .AddGoogle(options =>
+                {
+                    var gconfig = builder.Configuration.GetSection("Authentication:Google");
+                    options.ClientId = gconfig["ClientId"];
+                    options.ClientSecret = gconfig["ClientSecret"];
+                    options.CallbackPath = "/dang-nhap-tu-google";
+                });
+//dang ki dich vu error cua IdentityErrorDescriber thay bang AppIdentityErrorDescriber
+builder.Services.AddSingleton<IdentityErrorDescriber, AppIdentityErrorDescriber>();
+
+//dang ki Tao policy
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AllowEditRole", policy =>
+    {
+        policy.RequireRole("Admin");
+    });
+});
+
+
 
 var app = builder.Build();
 
@@ -88,6 +109,12 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapRazorPages();
+//fix loi Exception: Correlation failed.
+app.UseCookiePolicy(new CookiePolicyOptions()
+{
+    MinimumSameSitePolicy = SameSiteMode.Lax
+});
+
 
 app.Run();
 
@@ -104,8 +131,37 @@ app.Run();
    Identity:
         - Athentication: Xác định danh tính -> Login, Logout...
         - Authorization: Xác thực quyền truy cập
+         - Role-Based Authentication - Xác định quyền truy cập
+          - role (vai trò): (Admin, Editor, Member...)
+
+          * Policy-based authentication
+          * Claim-based authentication
+                Claim => Đặc tính, tính chất của đối tượng (User)
+
+                VD: Bằng lái B2 (Role) -> được lái xe 4 chỗ
+                - Ngày sinh -> Claim
+                - Nơi sinh -> Claim
+                
+
+
+
+          Areas/Admin/Pages/Role       
+          Index
+          Create
+          Edit
+          Delete
+
+          dotnet new page --name Index -o Areas/Admin/Pages/Role --namespace App.Admin.Role
+          dotnet new page --name Create -o Areas/Admin/Pages/Role --namespace App.Admin.Role
+
         - Quản lí User: Sign up, User, Role ...
 
+        [Authorize] - Controller, Action, Page-Model -> User phai dang nhap
+        
 
    dotnet aspnet-codegenerator identity -dc razorweb.models.MyBlogContext
+
+
+   //CallbackPatch
+   //http://localhost:5170/dang-nhap-tu-google
 */
